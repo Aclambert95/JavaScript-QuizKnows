@@ -23,3 +23,7 @@ THEN the game is over
 WHEN the game is over
 THEN I can save my initials and my score
 ```
+
+
+### Starting Out
+I've added the all the code to the HTML and CSS files to generate a starting page and a button to start the quiz:
